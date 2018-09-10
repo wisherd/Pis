@@ -15,8 +15,8 @@ import (
 	"github.com/wisherd/Pis/modules"
 	"github.com/wisherd/Pis/crypto"
 	"github.com/wisherd/Pis/build"
+	mnemonics2 "gitlab.com/NebulousLabs/entropy-mnemonics"
 	"gitlab.com/NebulousLabs/Sia/profile"
-	mnemonics2 "github.com/wisherd/entropy-mnemonics"
 )
 
 // passwordPrompt securely reads a password from stdin.

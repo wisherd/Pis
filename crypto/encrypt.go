@@ -10,7 +10,7 @@ import (
 	"io"
 
 	"golang.org/x/crypto/twofish"
-	"github.com/wisherd/fastrand"
+	"gitlab.com/NebulousLabs/fastrand"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/wisherd/fastrand"
+	"gitlab.com/NebulousLabs/fastrand"
 )
 
 const (

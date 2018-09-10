@@ -16,7 +16,7 @@ import (
 
 	"github.com/wisherd/Pis/crypto"
 	"github.com/wisherd/Pis/build"
-	"github.com/wisherd/errors"
+	"gitlab.com/NebulousLabs/errors"
 )
 
 // verifyChecksum will disregard the metadata of the saved file, and just verify

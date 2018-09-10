@@ -11,7 +11,7 @@ import (
 
 	"github.com/wisherd/Pis/build"
 	"github.com/wisherd/Pis/persist"
-	"github.com/wisherd/fastrand"
+	"gitlab.com/NebulousLabs/fastrand"
 )
 
 // ProdDependencies act as a global instance of the production dependencies to
