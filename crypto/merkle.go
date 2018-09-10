@@ -3,7 +3,7 @@ package crypto
 import (
 	"bytes"
 
-	"github.com/wisherd/merkletree"
+	"github.com/wisherd/Pis/common/merkletree"
 	"github.com/wisherd/Pis/encoding"
 )
 

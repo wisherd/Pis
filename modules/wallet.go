@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/wisherd/entropy-mnemonics"
+	"github.com/wisherd/Pis/common/entropy-mnemonics"
 	
 	"github.com/wisherd/Pis/crypto"
 	"github.com/wisherd/Pis/types"
