@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/wisherd/Pis/build"
-	"github.com/wisherd/Pis/common/fastrand"
+	"github.com/wisherd/fastrand"
 )
 
 // TestIntegrationRandomSuffix checks that the random suffix creator creates

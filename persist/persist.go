@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/wisherd/Pis/common/fastrand"
+	"github.com/wisherd/fastrand"
 )
 
 const (

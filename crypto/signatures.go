@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/crypto/ed25519"
 	"github.com/wisherd/Pis/encoding"
-	"github.com/wisherd/Pis/common/fastrand"
+	"github.com/wisherd/fastrand"
 )
 
 const (

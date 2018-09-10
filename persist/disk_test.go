@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/wisherd/Pis/build"
-	"github.com/wisherd/Pis/common/fastrand"
+	"github.com/wisherd/fastrand"
 )
 
 // BenchmarkWrite512MiB checks how long it takes to write 512MiB sequentially.
